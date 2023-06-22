@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **C#, .Net Core,Angular**
 
-- 🌱 I’m currently learning **I’m currently learning Full Stack Development.**
+- 🌱 I’m currently learning **Full Stack Development.**
 
 - 👨‍💻 All of my projects are available at [Most of my projects are available on Github.](Most of my projects are available on Github.)
 
