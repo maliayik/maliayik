@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development.**
 
-- 👨‍💻 All of my projects are available at [Most of my projects are available on Github.](Most of my projects are available on Github.)
+- 👨‍💻 All of my projects are available at [Most of my projects are available on Github.]
 
 - 📝 I regularly write articles on [https://medium.com/@mehmetaliayikk](https://medium.com/@mehmetaliayikk)
 
